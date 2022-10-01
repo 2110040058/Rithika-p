@@ -36,10 +36,4 @@ void loop() {
     digitalWrite(motor,LOW);
     delay(1000);
   }
-
-//  sensorValue = analogRead(sensorPin);
-//  lcd.setCursor(4,2);
-//  lcd.print(sensorValue);
-//  delay(1000);
-  
 }
